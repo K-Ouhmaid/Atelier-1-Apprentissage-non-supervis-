@@ -1,4 +1,4 @@
-# Atelier-1-Apprentissage-non-supervis-
+# Atelier-1-Apprentissage-non-supervise-
 
 • Réduction de dimensions (ACP)<br>
 • Visualisation<br>
